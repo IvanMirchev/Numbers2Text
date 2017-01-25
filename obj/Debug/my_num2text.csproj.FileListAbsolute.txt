@@ -1,0 +1,6 @@
+C:\Users\Van\Documents\Visual Studio 2015\Projects\25.06\my_num2text\bin\Debug\my_num2text.exe.config
+C:\Users\Van\Documents\Visual Studio 2015\Projects\25.06\my_num2text\bin\Debug\my_num2text.exe
+C:\Users\Van\Documents\Visual Studio 2015\Projects\25.06\my_num2text\bin\Debug\my_num2text.pdb
+C:\Users\Van\Documents\Visual Studio 2015\Projects\25.06\my_num2text\obj\Debug\my_num2text.csprojResolveAssemblyReference.cache
+C:\Users\Van\Documents\Visual Studio 2015\Projects\25.06\my_num2text\obj\Debug\my_num2text.exe
+C:\Users\Van\Documents\Visual Studio 2015\Projects\25.06\my_num2text\obj\Debug\my_num2text.pdb
